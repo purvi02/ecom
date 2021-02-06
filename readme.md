@@ -1,5 +1,5 @@
 # How to use
-
+wamp, laravel install
 
 Clone repo
 
